@@ -1,0 +1,57 @@
+converts STM:
+1.Length:
+    MM
+    CM
+    M
+    Inch
+    Foot
+    KM
+    Mile
+    Yard
+    DM
+
+2.weight:
+    MG
+    G
+    KG
+    TON
+    LB
+    OZ
+3.area:
+    MM2
+    CM2
+    M2
+    F2
+    KM2
+    INCH2
+    MILE2
+
+4.volume:
+    cc
+    ML
+    L
+
+5.temperature:
+    C
+    F
+    K
+    R
+
+#8.speed:
+    M/S
+    FPS
+    KM/H
+    MILE/H
+
+# 10.energy
+# 11.power
+#4.pressure:
+    PA
+    BAR
+    KPA
+    PSI
+
+Hope you like it
+ 
+Sincerely
+Shayan Pourahmad 
